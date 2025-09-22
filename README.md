@@ -1,2 +1,0 @@
-# Acadmia
-My Own App
